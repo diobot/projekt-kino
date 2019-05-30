@@ -1,0 +1,212 @@
+{ "Looknij" : [ {
+   
+    "name" : "Looknij",
+    "location" : "Chorzów",
+    "sits" : 200,
+    "row" : 10,
+    "columns" : 18,
+    "films_qty" : 3,
+    "cinema_img" : "img/chorzow.jpg",
+    "films" : [
+        {
+            "name" : "Harry Potter i Kamień filozoficzny",
+            "source" : "https://www.imdb.com/title/tt0241527/?ref_=nv_sr_1?ref_=nv_sr_1",
+            "img" : "img/kamien_filozoficzny.jpg",
+            "price" : "20 pln",
+            "hours" : [
+                 "14:00"
+               
+            ],
+            "days" : [
+                "Poniedziałek",
+                "Wtorek",
+                "Środa",
+                "Czwartek",
+                "Piątek",
+                "Sobota",
+                "Niedziela"      
+            ],
+            "text" :  "Jest to ekranizacja książki Joanne K. Rowling o tytule Harry Potter i Kamień Filozoficzny. W Stanach Zjednoczonych filmowi nadano tytuł zgodny z tytułem amerykańskiego wydania książki, czyli Harry Potter and the Sorcerer’s Stone, co znaczy Harry Potter i Kamień Czarodzieja. Wobec tego każdą scenę, w której występowało słowo kamień filozoficzny, trzeba było kręcić dwukrotnie. Jest to pierwszy film z serii o przygodach Harry’ego Pottera. Opowiada o chłopcu Harrym Potterze, który w swoje jedenaste urodziny odkrywa, że jest czarodziejem. "
+        },
+         {
+            "name" : "Skazani na Shawshank",
+            "source" : "https://www.imdb.com/title/tt0111161/?ref_=nv_sr_1?ref_=nv_sr_1",
+            "img": "img/skazani_na_shawshank.jpg",
+            "price" : "20 pln",
+            "hours" : [
+                "17:00"
+            ],
+            "days" : [
+                "Poniedziałek",
+                "Wtorek",
+                "Środa",
+                "Czwartek",
+                "Piątek",
+                "Sobota",
+                "Niedziela"
+            ],
+            "text" : "Adaptacja powieści Stephena Kinga. Andy Dufresne (Tim Robbins) odsiaduje karę dożywotniego więzienia za podwójne morderstwo, którego nie popełnił. W Shawshank rządzą sadystyczni strażnicy; dyrektor więzienia to hipokryta i oszust. Ale Andy jest sprytniejszy od każdego z nich; lata, jakie przyjdzie mu spędzić w celi, wykorzysta na przygotowanie misternego planu zemsty – tak zaskakującego, że zmyli nawet najbliższych współwięźniów."
+        },
+        {
+            "name" : "Truman Show",
+            "source" : "https://www.imdb.com/title/tt0120382/?ref_=nm_knf_i2",
+            "img" : "img/truman_show.jpg",
+            "price" : "20 pln",
+            "hours" : [
+                "20:00"
+            ],
+            "days" : [
+                "Poniedziałek",
+                "Wtorek",
+                "Środa",
+                "Czwartek",
+                "Piątek",
+                "Sobota",
+                "Niedziela"
+            ],
+            "text" : "Truman Burbank to 30-letni agent ubezpieczeniowy. Ma kochającą żonę i rodzinę, wiedzie przeciętne życie w spokojnym miasteczku. Truman jednak cały czas ma przeczucie, że ktoś go obserwuje. Nie myli się. Jest nieświadomą gwiazdą opery mydlanej trwającej od dnia jego narodzin. Wszyscy otaczający go ludzie są aktorami. Jego życie śledzi ponad 5000 kamer, reżyser zaś decyduje nawet o panującej na planie pogodzie. Truman zaczyna się czegoś domyślać, staje się coraz bardziej podejrzliwy, aż w końcu poznaje smutną prawdę o otaczającym go świecie."
+        }    
+    ]
+},
+
+  {
+    "name" : "Looknij",
+    "location" : "Sopot",
+    "sits" : 150,
+    "row" : 10,
+    "columns" : 13,
+    "films_qty" : 3,
+    "cinema_img" : "img/sopot.jpg",
+    "films" : [
+        {
+            "name" : "Pulp fiction",
+            "source" : "https://www.imdb.com/title/tt0110912/?ref_=nv_sr_1?ref_=nv_sr_1",
+            "img" : "img/pulp_fiction.jpg",
+            "price" : "20 pln",
+            "hours" : [
+                 "12:00"
+              
+            ],
+            "days" : [
+                "Poniedziałek",
+                "Wtorek",
+                "Środa",
+                "Czwartek",
+                "Piątek",
+                "Sobota",
+                "Niedziela"
+        ],
+        "text" : "Amerykański film kryminalny z 1994 roku w reżyserii Quentina Tarantino, oparty na scenariuszu Tarantino i Rogera Avary’ego[1]. Film, w którym występują John Travolta, Samuel L. Jackson, Bruce Willis, Tim Roth, Ving Rhames i Uma Thurman, opowiada kilka epizodów rozgrywających się w przestępczym Los Angeles. Tytuł filmu nawiązuje do popularnych w połowie XX wieku magazynów i powieści kryminalnych, które charakteryzowały się drastyczną przemocą i błyskotliwymi dialogami."
+        },
+         {
+            "name" : "Piękny umysł",
+            "source" : "https://www.imdb.com/title/tt0268978/?ref_=nv_sr_1?ref_=nv_sr_1",
+            "img": "img/piekny_umysl.jpg",
+            "price" : "20 pln",
+            "hours" : [
+                 "15:00"
+            ],
+            "days" : [ 
+                "Poniedziałek",
+                "Wtorek",
+                "Środa",
+                "Czwartek",
+                "Piątek",
+                "Sobota",
+                "Niedziela"
+            ],
+            "text" : "Piękny umysł powstał na podstawie książki Sylvii Nasar pod tym samym tytułem z 1998, która opisuje Nasha jako matematyka oraz jego życie prywatne. W filmie pominięto wiele wątków (między innymi skłonności homoseksualne głównego bohatera oraz jego nieślubne dziecko), wiele uproszczono, a wielu nadano charakter bardziej fabularny, powodując odejście od dokumentalnej formuły książki. Było to konieczne choćby ze względu na jej objętość (książka ma prawie 500 stron dużego formatu)."
+        },
+        {
+            "name" : "Incepcja",
+            "source" : "https://www.imdb.com/title/tt1375666/?ref_=nv_sr_1?ref_=nv_sr_1",
+            "img" : "img/incepcja.jpg",
+            "price" : "20 pln",
+            "hours" : [
+                 "18:00"
+            ],
+            "days" : [
+                "Poniedziałek",
+                "Wtorek",
+                "Środa",
+                "Czwartek",
+                "Piątek",
+                "Sobota",
+                "Niedziela"
+            ],
+            "text" : "Film opowiada o możliwościach ingerowania w ludzki umysł dzięki zaawansowanej technologii umożliwiającej wpływ na marzenia senne. Głównym bohaterem filmu jest Cobb (Leonardo DiCaprio) – szef zespołu specjalizującego się w dokonywaniu włamań do snów innych osób. Dzięki tej możliwości może zarówno pozyskiwać informacje, jak i wprowadzać nowe dane. Najważniejszym i ostatnim zadaniem zespołu Cobba jest wywołanie wpływu na umysł następcy właściciela ogólnoświatowego koncernu."
+        }    
+    ]
+},
+
+ {
+    "name" : "Looknij",
+    "location" : "Warszawa",
+    "sits" : 300,
+    "row" :10,
+    "columns" : 15,
+    "films_qty" : 3,
+    "cinema_img" : "img/warszawa.jpg",
+    "films" : [
+        {
+            "name" : "Król lew",
+            "source" : "https://www.imdb.com/title/tt6105098/?ref_=nv_sr_1?ref_=nv_sr_1",
+            "img" : "img/krol_lew.jpg",
+            "price" : "20 pln",
+            "hours" : [
+                "14:00"
+              
+            ],
+            "days" : [
+                "Poniedziałek",
+                "Wtorek",
+                "Środa",
+                "Czwartek",
+                "Piątek",
+                "Sobota",
+                "Niedziela"
+        ],
+        "text" : "Simba jest młodym, prawowitym następcą tronu po swoim ojcu – królu Mufasie. Jednak nie wszyscy mieszkańcy królestwa cieszą się z jego narodzin. Następcą Mufasy był bowiem dotąd jego brat – Skaza, który nie zamierza tak łatwo oddać władzy. Knując spisek i posuwając się do zdrady, doprowadza do tragedii, w wyniku której to jemu przypada w udziale tron. Simba zostaje wygnany, ale pozostając wierny naukom swojego ojca, Mufasy, bierze sobie do serca swoje królewskie przeznaczenie. Z pomocą dwójki nowopoznanych przyjaciół zamierza odzyskać należne dziedzictwo. Wcześniej musi jednak odszukać swoją drogę ku dorosłości "
+        },
+         {
+            "name" : "Gladiator",
+            "source" : "https://www.imdb.com/title/tt0172495/?ref_=nv_sr_1?ref_=nv_sr_1",
+            "img": "img/gladiator.jpg",
+            "price" : "20 pln",
+            "hours" : [
+               "17:00"
+            ],
+            "days" : [  
+                "Poniedziałek",
+                "Wtorek",
+                "Środa",
+                "Czwartek",
+                "Piątek",
+                "Sobota",
+                "Niedziela"
+            ],
+            "text" : "Maximus jest rzymskim generałem za czasów Marka Aureliusza (ok. roku 180) i dowodzi wyprawą przeciw Germanom. Wyprawa kończy się sukcesem. Cesarz chce przywrócić ustrój republikański w imperium z pomocą Maximusa po swojej śmierci, ale zazdrosny syn Marka Aureliusza, Kommodus, zabija ojca, zanim ktokolwiek mógłby się dowiedzieć o testamencie cesarza. Kommodus ogłasza się nowym władcą i rozkazuje pretorianom zabić Maximusa i jego rodzinę."
+        },
+        {
+            "name" : "Whiplash",
+            "source" : "https://www.imdb.com/title/tt2582802/?ref_=nv_sr_1?ref_=nv_sr_1",
+            "img" : "img/whiplash.jpg",
+            "price" : "20 pln",
+            "hours" : [
+                "21:00"
+            ],
+            "days" : [
+                "Poniedziałek",
+                "Wtorek",
+                "Środa",
+                "Czwartek",
+                "Piątek",
+                "Sobota",
+                "Niedziela"
+            ],
+            "text" : "Andrew (Miles Teller) to młody perkusista, który stara się osiągnąć doskonałość. Fletcher, wykładowca prestiżowego konserwatorium (JK Simmons) jest bardzo wymagającym nauczycielem. Jego metody dydaktyczne są okrutne; zmusza uczniów do nieludzkiego wysiłku, często poniża. Andrew jest gotowy na wszelkie poświęcenia, aby stać się muzykiem idealnym. Przejmujący obraz pokazujący ludzka determinację w dążeniu do ideału. Wspaniałe kreacje aktorskie."
+        }    
+    ]
+}]
+}
+

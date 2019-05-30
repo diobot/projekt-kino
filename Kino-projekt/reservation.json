@@ -1,0 +1,502 @@
+{
+    "reservation" : {
+        "Chorzów" : {
+            "films" : {
+                "Harry Potter i Kamień filozoficzny" : {
+                    "days" : {
+                        "Poniedziałek" : {
+                            "hours" : {
+                                "14:00" : {
+                                    "reserved_sits" : []
+                                }                                
+                            }
+                        },
+                        "Wtorek" : {
+                            "hours" : {
+                                "14:00" : {
+                                    "reserved_sits":[]
+                                }
+                            }
+                        },
+                        "Środa" : {
+                            "hours" : {
+                                "14:00" : {
+                                    "reserved_sits":[]
+                                }
+                            }
+                        },
+                        "Czwartek" : {
+                            "hours" : {
+                                "14:00" : {
+                                    "reserved_sits":[]
+                                }
+                            }
+                        },
+                        "Piątek" : {
+                            "hours" : {
+                                "14:00" : {
+                                    "reserved_sits":[]
+                                }
+                            }
+                        },
+                        "Sobota" : {
+                            "hours" : {
+                                "14:00" : {
+                                    "reserved_sits":[]
+                                }
+                            }
+                        },
+                        "Niedziela" : {
+                            "hours" : {
+                                "14:00" : {
+                                    "reserved_sits":[]
+                                }
+                            }
+                        }
+                    }
+                },
+
+
+                "Skazani na Shawshank" : {
+                    "days" : {
+                        "Poniedziałek" : {
+                            "hours" : {
+                                "17:00" : {
+                                    "reserved_sits":[]
+                                }                                
+                            }
+                        },
+                        "Wtorek" : {
+                            "hours" : {
+                                "17:00" : {
+                                    "reserved_sits":[]
+                                }
+                            }
+                        },
+                        "Środa" : {
+                            "hours" : {
+                                "17:00" : {
+                                    "reserved_sits":[]
+                                }
+                            }
+                        },
+                        "Czwartek" : {
+                            "hours" : {
+                                "17:00" : {
+                                    "reserved_sits":[]
+                                }
+                            }
+                        },
+                        "Piątek" : {
+                            "hours" : {
+                                "17:00" : {
+                                    "reserved_sits":[]
+                                }
+                            }
+                        },
+                        "Sobota" : {
+                            "hours" : {
+                                "17:00" : {
+                                    "reserved_sits":[]
+                                }
+                            }
+                        },
+                        "Niedziela" : {
+                            "hours" : {
+                                "17:00" : {
+                                    "reserved_sits":[]
+                                }
+                            }
+                        }
+                    }
+            },
+            
+            "Truman Show" : {
+                "days" : {
+                    "Poniedziałek" : {
+                        "hours" : {
+                            "20:00" : {
+                                "reserved_sits":[]
+                            }                                
+                        }
+                    },
+                    "Wtorek" : {
+                        "hours" : {
+                            "20:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Środa" : {
+                        "hours" : {
+                            "20:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Czwartek" : {
+                        "hours" : {
+                            "20:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Piątek" : {
+                        "hours" : {
+                            "20:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Sobota" : {
+                        "hours" : {
+                            "20:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Niedziela" : {
+                        "hours" : {
+                            "20:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    }
+                }
+            }    
+        }
+    },
+
+    "Sopot" : {
+        "films" : {
+            "Pulp fiction" : {
+                "days" : {
+                    "Poniedziałek" : {
+                        "hours" : {
+                            "12:00" : {
+                                "reserved_sits":[]
+                            }                                
+                        }
+                    },
+                    "Wtorek" : {
+                        "hours" : {
+                            "12:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Środa" : {
+                        "hours" : {
+                            "12:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Czwartek" : {
+                        "hours" : {
+                            "12:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Piątek" : {
+                        "hours" : {
+                            "12:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Sobota" : {
+                        "hours" : {
+                            "12:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Niedziela" : {
+                        "hours" : {
+                            "12:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    }
+                }
+            },
+
+            "Piękny umysł" : {
+                "days" : {
+                    "Poniedziałek" : {
+                        "hours" : {
+                            "15:00" : {
+                                "reserved_sits":[]
+                            }                                
+                        }
+                    },
+                    "Wtorek" : {
+                        "hours" : {
+                            "15:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Środa" : {
+                        "hours" : {
+                            "15:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Czwartek" : {
+                        "hours" : {
+                            "15:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Piątek" : {
+                        "hours" : {
+                            "15:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Sobota" : {
+                        "hours" : {
+                            "15:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Niedziela" : {
+                        "hours" : {
+                            "15:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    }
+                }
+        },
+        
+        "Incepcja" : {
+            "days" : {
+                "Poniedziałek" : {
+                    "hours" : {
+                        "18:00" : {
+                            "reserved_sits":[]
+                        }                                
+                    }
+                },
+                "Wtorek" : {
+                    "hours" : {
+                        "18:00" : {
+                            "reserved_sits":[]
+                        }
+                    }
+                },
+                "Środa" : {
+                    "hours" : {
+                        "18:00" : {
+                            "reserved_sits":[]
+                        }
+                    }
+                },
+                "Czwartek" : {
+                    "hours" : {
+                        "18:00" : {
+                            "reserved_sits":[]
+                        }
+                    }
+                },
+                "Piątek" : {
+                    "hours" : {
+                        "18:00" : {
+                            "reserved_sits":[]
+                        }
+                    }
+                },
+                "Sobota" : {
+                    "hours" : {
+                        "18:00" : {
+                            "reserved_sits":[]
+                        }
+                    }
+                },
+                "Niedziela" : {
+                    "hours" : {
+                        "18:00" : {
+                            "reserved_sits":[]
+                        }
+                    }
+                }
+            }
+        }
+    }
+},
+
+    "Warszawa" : {
+        "films" : {
+            "Król lew" : {
+                "days" : {
+                    "Poniedziałek" : {
+                        "hours" : {
+                            "14:00" : {
+                                "reserved_sits":[]
+                            }                                
+                        }
+                    },
+                    "Wtorek" : {
+                        "hours" : {
+                            "14:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Środa" : {
+                        "hours" : {
+                            "14:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Czwartek" : {
+                        "hours" : {
+                            "14:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Piątek" : {
+                        "hours" : {
+                            "14:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Sobota" : {
+                        "hours" : {
+                            "14:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Niedziela" : {
+                        "hours" : {
+                            "14:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    }
+                }
+            },
+
+            "Gladiator" : {
+                "days" : {
+                    "Poniedziałek" : {
+                        "hours" : {
+                            "17:00" : {
+                                "reserved_sits":[]
+                            }                                
+                        }
+                    },
+                    "Wtorek" : {
+                        "hours" : {
+                            "17:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Środa" : {
+                        "hours" : {
+                            "17:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Czwartek" : {
+                        "hours" : {
+                            "17:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Piątek" : {
+                        "hours" : {
+                            "17:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Sobota" : {
+                        "hours" : {
+                            "17:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    },
+                    "Niedziela" : {
+                        "hours" : {
+                            "17:00" : {
+                                "reserved_sits":[]
+                            }
+                        }
+                    }
+                }
+        },
+        
+        "Whiplash" : {
+            "days" : {
+                "Poniedziałek" : {
+                    "hours" : {
+                        "21:00" : {
+                            "reserved_sits":[]
+                        }                                
+                    }
+                },
+                "Wtorek" : {
+                    "hours" : {
+                        "21:00" : {
+                            "reserved_sits":[]
+                        }
+                    }
+                },
+                "Środa" : {
+                    "hours" : {
+                        "21:00" : {
+                            "reserved_sits":[]
+                        }
+                    }
+                },
+                "Czwartek" : {
+                    "hours" : {
+                        "21:00" : {
+                            "reserved_sits":[]
+                        }
+                    }
+                },
+                "Piątek" : {
+                    "hours" : {
+                        "21:00" : {
+                            "reserved_sits":[]
+                        }
+                    }
+                },
+                "Sobota" : {
+                    "hours" : {
+                        "21:00" : {
+                            "reserved_sits":[]
+                        }
+                    }
+                },
+                "Niedziela" : {
+                    "hours" : {
+                        "21:00" : {
+                            "reserved_sits":[]
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+}
+}
